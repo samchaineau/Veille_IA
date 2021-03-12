@@ -1,0 +1,251 @@
+,0,1,2
+0,computer vision CNN,2014,CNN features off-the-shelf: an astounding baseline for recognition
+1,computer vision CNN,2016,Is faster R-CNN doing well for pedestrian detection?
+2,computer vision CNN,2020,CNN-LSTM deep learning architecture for computer vision-based modal frequency detection
+3,computer vision CNN,2016,Unsupervised cnn for single view depth estimation: Geometry to the rescue
+4,computer vision CNN,2019,Socodecnn: Program source code for visual cnn classification using computer vision methodology
+5,computer vision CNN,2016,"Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning"
+6,computer vision CNN,2018,A guide to convolutional neural networks for computer vision
+7,computer vision CNN,2017,Genetic cnn
+8,computer vision CNN,2016,Unconstrained face verification using deep cnn features
+9,computer vision CNN,2017,Towards closing the energy gap between HOG and CNN features for embedded vision
+0,computer vision CNN,2017,CNN design for real-time traffic sign recognition
+1,computer vision CNN,2019,Grid r-cnn
+2,computer vision CNN,2017,Face r-cnn
+3,computer vision CNN,2016,Faster r-cnn features for instance search
+4,computer vision CNN,2016,Learning to count with cnn boosting
+5,computer vision CNN,2019,Mask scoring r-cnn
+6,computer vision CNN,2018,Falls from heights: A computer vision-based approach for safety harness detection
+7,computer vision CNN,2020,CSPNet: A new backbone that can enhance learning capability of CNN
+8,computer vision CNN,2016,Multi-scale triplet cnn for person re-identification
+9,computer vision CNN,2017,Tube convolutional neural network (t-cnn) for action detection in videos
+0,computer vision CNN,2016,Fused-layer CNN accelerators
+1,computer vision CNN,2017,Handcrafted vs. non-handcrafted features for computer vision classification
+2,computer vision CNN,2020,Object detection based on RGC mask R-CNN
+3,computer vision CNN,2015,Render for cnn: Viewpoint estimation in images using cnns trained with rendered 3d model views
+4,computer vision CNN,2017,Iris recognition with off-the-shelf CNN features: A deep learning perspective
+5,computer vision CNN,2017,Learning deep CNN denoiser prior for image restoration
+6,computer vision CNN,2016,A taxonomy of deep convolutional neural nets for computer vision
+7,computer vision CNN,2018,A study on cnn transfer learning for image classification
+8,computer vision CNN,2017,Ship detection in SAR images based on an improved faster R-CNN
+9,computer vision CNN,2018,Multi-level wavelet-CNN for image restoration
+0,computer vision CNN,2019,Libra r-cnn: Towards balanced learning for object detection
+1,computer vision CNN,2018,Shufflenet v2: Practical guidelines for efficient cnn architecture design
+2,computer vision CNN,2018,A CNN accelerator on FPGA using depthwise separable convolution
+3,computer vision CNN,2017,CNN architectures for large-scale audio classification
+4,computer vision CNN,2020,Comparison of CNN and YOLO for Object Detection
+5,computer vision CNN,2020,Deep Learning Techniques—R-CNN to Mask R-CNN: A Survey
+6,computer vision CNN,2020,Attention-guided CNN for image denoising
+7,computer vision CNN,2017,CAS-CNN: A deep convolutional neural network for image compression artifact suppression
+8,computer vision CNN,2019,Car detection using unmanned aerial vehicles: Comparison between faster r-cnn and yolov3
+9,computer vision CNN,2016,Face attribute prediction using off-the-shelf CNN features
+0,computer vision CNN,2019,Single image dehazing using CNN
+1,computer vision CNN,2018,Shapeshifter: Robust physical adversarial attack on faster r-cnn object detector
+2,computer vision CNN,2017,Integrating stereo vision with a CNN tracker for a person-following robot
+3,computer vision CNN,2016,Facial expression recognition with CNN ensemble
+4,computer vision CNN,2019,A deep learning-based approach for mitigating falls from height with computer vision: Convolutional neural network
+5,computer vision CNN,2018,Periocular recognition using CNN features off-the-shelf
+6,computer vision CNN,2016,CNN image retrieval learns from BoW: Unsupervised fine-tuning with hard examples
+7,computer vision CNN,2017,LeafNet: A computer vision system for automatic plant species identification
+8,computer vision CNN,2019,A high-performance CNN processor based on FPGA for MobileNets
+9,computer vision CNN,2018,Deep learning for computer vision: A brief review
+0,cnn image detection,2015,Fast r-cnn
+1,cnn image detection,2016,"Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning"
+2,cnn image detection,2018,Convolutional neural network (CNN) for image detection and recognition
+3,cnn image detection,2017,T-cnn: Tubelets with convolutional neural networks for object detection from videos
+4,cnn image detection,2017,Face detection with the faster R-CNN
+5,cnn image detection,2014,Food detection and recognition using convolutional neural network
+6,cnn image detection,2016,Pornographic image detection utilizing deep convolutional neural networks
+7,cnn image detection,2020,Integrating SIFT and CNN feature matching for partial-duplicate image detection
+8,cnn image detection,2015,Faster r-cnn: Towards real-time object detection with region proposal networks
+9,cnn image detection,2020,Near-duplicate image detection system using coarse-to-fine matching scheme based on global and local cnn features
+0,cnn image detection,2019,Improving the generalization of colorized image detection with enhanced training of CNN
+1,cnn image detection,2018,Detection of rail surface defects based on CNN image recognition and classification
+2,cnn image detection,2015,Change Detection from a Street Image Pair using CNN Features and Superpixel Segmentation.
+3,cnn image detection,2019,RGB-D image multi-target detection method based on 3D DSF R-CNN
+4,cnn image detection,2019,Insulator detection method in inspection image based on improved faster R-CNN
+5,cnn image detection,2020,Image Detection Model for Construction Worker Safety Conditions using Faster R-CNN
+6,cnn image detection,2018,Median filtering detection of small-size image based on CNN
+7,cnn image detection,2017,Applying faster R-CNN for object detection on malaria images
+8,cnn image detection,2017,Ship detection in SAR images based on an improved faster R-CNN
+9,cnn image detection,2018,Kiwifruit detection in field images using Faster R-CNN with ZFNet
+0,cnn image detection,2020,Enhanced Mask R-CNN for Chinese Food Image Detection
+1,cnn image detection,2018,A study on object detection method from manga images using CNN
+2,cnn image detection,2018,Domain adaptive faster r-cnn for object detection in the wild
+3,cnn image detection,2016,Traffic-sign detection and classification in the wild
+4,cnn image detection,2018,Detection and classification of lung abnormalities by use of convolutional neural network (CNN) and regions with CNN features (R-CNN)
+5,cnn image detection,2019,Fingerprint liveness detection using an improved CNN with image scale equalization
+6,cnn image detection,2018,TI-CNN: Convolutional neural networks for fake news detection
+7,cnn image detection,2018,Change detection based on Faster R-CNN for high-resolution remote sensing images
+8,cnn image detection,2016,S-CNN-BASED SHIP DETECTION FROM HIGH-RESOLUTION REMOTE SENSING IMAGES.
+9,cnn image detection,2018,Small object detection in optical remote sensing images via modified faster R-CNN
+0,cnn image detection,2019,Car detection using unmanned aerial vehicles: Comparison between faster r-cnn and yolov3
+1,cnn image detection,2017,Intervertebral disc detection in X-ray images using faster R-CNN
+2,cnn image detection,2018,GETNET: A general end-to-end 2-D CNN framework for hyperspectral image change detection
+3,cnn image detection,2017,Tampering Detection and Localization Through Clustering of Camera-Based CNN Features.
+4,cnn image detection,2011,"Detection of masses in mammogram images using CNN, geostatistic functions and SVM"
+5,cnn image detection,2018,Automatic colon polyp detection using region based deep cnn and post learning approaches
+6,cnn image detection,2016,Faster R-CNN: towards real-time object detection with region proposal networks
+7,cnn image detection,2017,Rotated region based CNN for ship detection
+8,cnn image detection,2019,Deep layer CNN architecture for breast cancer histopathology image detection
+9,cnn image detection,2020,Performance analysis of deep learning CNN models for disease detection in plants using image segmentation
+0,cnn image detection,2017,The application of one-class classifier based on CNN in image defect detection
+1,cnn image detection,2015,Fast accurate fish detection and recognition of underwater images with fast r-cnn
+2,cnn image detection,<ah,Deep learning for medical image analysis
+3,cnn image detection,2019,D2-net: A trainable cnn for joint description and detection of local features
+4,cnn image detection,2019,Stereo r-cnn based 3d object detection for autonomous driving
+5,cnn image detection,2019,CNN based automatic detection of photovoltaic cell defects in electroluminescence images
+6,cnn image detection,2019,Fire detection from images using faster R-CNN and multidimensional texture analysis
+7,cnn image detection,2019,D2-net: A trainable cnn for joint detection and description of local features
+8,cnn image detection,2020,Underwater image processing and object detection based on deep CNN Method
+9,cnn image detection,2016,Is faster R-CNN doing well for pedestrian detection?
+0,clothes recognition,2016,Deepfashion: Powering robust clothes recognition and retrieval with rich annotations
+1,clothes recognition,2014,Autonomous active recognition and unfolding of clothes using random decision forests and probabilistic planning
+2,clothes recognition,2011,Clothes handling based on recognition by strategic observation
+3,clothes recognition,2009,Clothes state recognition using 3d observed data
+4,clothes recognition,2012,Color recognition of clothes based on k-means and mean shift
+5,clothes recognition,2008,Real-time clothes comparison based on multi-view vision
+6,clothes recognition,2013,The accurate recognition of delirium in the ICU: the emperor's new clothes?
+7,clothes recognition,2018,Real-time continuous recognition of knee motion using multi-channel mechanomyography signals detected on clothes
+8,clothes recognition,2016,Accuracy on photo-model-based clothes recognition
+9,clothes recognition,2017,Single-shot clothing category recognition in free-configurations with application to autonomous clothes sorting
+0,clothes recognition,2011,Clothes search in consumer photos via color matching and attribute learning
+1,clothes recognition,2013,A method of state recognition of dressing clothes based on dynamic state matching
+2,clothes recognition,2011,People and clothes recognition based on topic model
+3,clothes recognition,2017,Automatic recognition of clothes pattern and motifs empowering online fashion shopping
+4,clothes recognition,2010,Clothes handling using visual recognition in cooperation with actions
+5,clothes recognition,2019,Landmark-free clothes recognition with a two-branch feature selective network
+6,clothes recognition,2019,Clothes keypoints localization and attribute recognition via prior knowledge
+7,clothes recognition,2017,Verification of illumination tolerance for clothes recognition
+8,clothes recognition,2016,Clothes co-parsing via joint image segmentation and labeling with application to clothing retrieval
+9,clothes recognition,2016,Recognition and handling of clothes with different pattern by dual hand-eyes robotic system
+0,clothes recognition,2017,Video2shop: Exact matching clothes in videos to online shopping images
+1,clothes recognition,2017,Textile robot for matching and pick up clothes based on color recognition
+2,clothes recognition,2013,"Effects of consumer demographic variables on clothes buying behaviour in Borno State, Nigeria"
+3,clothes recognition,2011,Recognizing clothes patterns for blind people by confidence margin based feature combination
+4,clothes recognition,2020,Aggregation and finetuning for clothes landmark detection
+5,clothes recognition,2000,A bride in her every-day clothes: same sex relationship recognition in NSW
+6,clothes recognition,2015,Convolutional neural networks for clothes categories
+7,clothes recognition,2018,Recognition and identification of the clothes in the photo or video using neural networks
+8,clothes recognition,2016,Folding clothes autonomously: A complete pipeline
+9,clothes recognition,1998,"Smart rooms, smart clothes"
+0,clothes recognition,2013,"Evaluation of socio-cultural factors influencing consumer buying behaviour of clothes in Borno State, Nigeria"
+1,clothes recognition,2020,An improved landmark-driven and spatial–channel attentive convolutional neural network for fashion clothes classification
+2,clothes recognition,2020,TileGAN: category-oriented attention-based high-quality tiled clothes generation from dressed person
+3,clothes recognition,2019,Skeleton based gait recognition for long and baggy clothes
+4,clothes recognition,2021,Clothes image caption generation with attribute detection and visual attention model
+5,clothes recognition,2020,Clothescounter: a framework for star-oriented clothes mining from videos
+6,clothes recognition,2017,Clothes detection and classification using convolutional neural networks
+7,clothes recognition,2019,Robust and effective clothes recognition system based on fusion of Haralick and HOG features
+8,clothes recognition,2017,Recognition of grasp points for clothes manipulation under unconstrained conditions
+9,clothes recognition,2008,An intelligent clothes search system based on fashion styles
+0,clothes recognition,2019,Fashion clothes matching scheme based on Siamese Network and AutoEncoder
+1,clothes recognition,2010,Recognition of marks in many texture noises on washing clothes
+2,clothes recognition,2011,"Frontal-to-side face re-identification based on hair, skin and clothes patches"
+3,clothes recognition,1998,Empowerment: The emperor's new clothes
+4,clothes recognition,2014,The emperor has no clothes: The limits of OPEC in the global oil market
+5,clothes recognition,2014,Active random forests: An application to autonomous unfolding of clothes
+6,clothes recognition,1996,Planning Strategy for Unfolding Task of Clothes-Isolation of clothes from washed mass
+7,clothes recognition,2020,Cocas: A large-scale clothes changing person dataset for re-identification
+8,clothes recognition,2014,Automatic clothes segmentation for soft biometrics
+9,clothes recognition,2010,Emperors with clothes on: The role of self-awareness in developing effective change leadership
+0,person detection,2011,Density-aware person detection and tracking in crowds
+1,person detection,2005,A two-stage template approach to person detection in thermal imagery
+2,person detection,2009,Robust stereo-based person detection and tracking for a person following robot
+3,person detection,2005,HMM based falling person detection using both audio and video
+4,person detection,2019,Eurocity persons: A novel benchmark for person detection in traffic scenes
+5,person detection,2005,On-line conservative learning for person detection
+6,person detection,2004,Robust Background-Subtraction for Person Detection in Thermal Imagery.
+7,person detection,2007,Falling person detection using multi-sensor signal processing
+8,person detection,2009,Feature based person detection beyond the visible spectrum
+9,person detection,2019,Fooling automated surveillance cameras: adversarial patches to attack person detection
+0,person detection,2017,Fully convolutional region proposal networks for multispectral person detection
+1,person detection,2017,Vision-based fallen person detection for the elderly
+2,person detection,2014,Low resolution person detection with a moving thermal infrared camera by hot spot classification
+3,person detection,2015,Recognizing actions through action-specific person detection
+4,person detection,2018,A comparison of embedded deep learning methods for person detection
+5,person detection,2018,CNN-based thermal infrared person detection by domain adaptation
+6,person detection,2020,Widet: Wi-fi based device-free passive person detection with deep convolutional neural networks
+7,person detection,2018,A hybrid framework combining background subtraction and deep neural networks for rapid person detection
+8,person detection,2010,"Face, body, and center of gravity mediate person detection in natural scenes."
+9,person detection,2013,Device-free person detection and ranging in UWB networks
+0,person detection,2016,Cooperative multi-scale convolutional neural networks for person detection
+1,person detection,2018,Deep learning-based person detection and classification for far field video surveillance
+2,person detection,2011,Fusion of infrared and visible images for robust person detection
+3,person detection,2014,Joint multi-person detection and tracking from overlapping cameras
+4,person detection,2010,Development of privacy-preserving sensor for person detection
+5,person detection,2018,Person head detection in multiple scales using deep convolutional neural networks
+6,person detection,2008,A Bayesian plan-view map based approach for multiple-person detection and tracking
+7,person detection,2020,Complementary-View Co-Interest Person Detection
+8,person detection,2001,Example-based object detection in images by components
+9,person detection,2015,Context-aware CNNs for person head detection
+0,person detection,<ah,Will person detection help bag-of-features action recognition?
+1,person detection,2008,Taylor expansion based classifier adaptation: Application to person detection
+2,person detection,2006,Development of a person following robot with vision based target detection
+3,person detection,2013,Fallen person detection for mobile robots using 3d depth data
+4,person detection,2007,Robust person detection using far infrared camera for image fusion
+5,person detection,2020,CNN-based person detection using infrared images for night-time intrusion warning systems
+6,person detection,2020,Monitoring COVID-19 social distancing with person detection and tracking via fine-tuned YOLO v3 and Deepsort techniques
+7,person detection,2014,"Automatic analysis of in-the-wild mobile eye-tracking experiments using object, face and person detection"
+8,person detection,2007,Automatic person detection and tracking using fuzzy controlled active cameras
+9,person detection,2013,Characterizing a heterogeneous system for person detection in video using histograms of oriented gradients: Power versus speed versus accuracy
+0,person detection,2014,Multi-sensor ambient assisted living system for fall detection
+1,person detection,2015,Co-interest person detection from multiple wearable camera videos
+2,person detection,2018,Person search by multi-scale matching
+3,person detection,2020,Person tracking algorithm based on convolutional neural network for indoor video surveillance
+4,person detection,2011,Finding the weakest link in person detectors
+5,person detection,2003,Person detection by mobile-manipulator for monitoring
+6,person detection,2014,Condensation-based multi-person detection and tracking with HOG and LBP
+7,person detection,2011,Person detection in surveillance environment with HoGG: Gabor filters and histogram of oriented gradient
+8,person detection,2013,An experimental study of UWB device-free person detection and ranging
+9,person detection,2014,Person detection method based on color layout in real world robot challenge 2013
+0,fashion deep learning,2017,Mining fashion outfit composition using an end-to-end deep learning approach on set data
+1,fashion deep learning,2017,Fashion-mnist: a novel image dataset for benchmarking machine learning algorithms
+2,fashion deep learning,2017,Towards better understanding the clothing fashion styles: A multimodal deep learning approach
+3,fashion deep learning,2017,Learning fashion compatibility with bidirectional lstms
+4,fashion deep learning,2002,Learning styles: Fashion fad or lever for change? The application of learning style theory to inclusive curriculum delivery
+5,fashion deep learning,2018,Exploring the use of deep neural networks for sales forecasting in fashion retail
+6,fashion deep learning,2018,Image-based fashion product recommendation with deep learning
+7,fashion deep learning,2019,A deep learning system for predicting size and fit in fashion e-commerce
+8,fashion deep learning,2018,A deep-learning-based fashion attributes detection model
+9,fashion deep learning,2019,Fashion product classification through deep learning and computer vision
+0,fashion deep learning,2020,Development of Fashion Product Retrieval and Recommendations Model Based on Deep Learning
+1,fashion deep learning,2017,Deep cross-domain fashion recommendation
+2,fashion deep learning,2016,Fashion landmark detection in the wild
+3,fashion deep learning,2017,Classification of fashion article images using convolutional neural networks
+4,fashion deep learning,2017,Fashion style generator
+5,fashion deep learning,2018,Dress fashionably: Learn fashion collocation with deep mixed-category metric learning
+6,fashion deep learning,2018,Learning attribute representations with localization for flexible fashion search
+7,fashion deep learning,2018,Learning type-aware embeddings for fashion compatibility
+8,fashion deep learning,2011,Multimodal deep learning
+9,fashion deep learning,2018,Deep learning for automated tagging of fashion images
+0,fashion deep learning,2019,Hierarchical convolutional neural networks for fashion image classification
+1,fashion deep learning,2018,Attentive fashion grammar network for fashion landmark detection and clothing category classification
+2,fashion deep learning,2018,Interpretable multimodal retrieval for fashion products
+3,fashion deep learning,2018,Deep fashion analysis with feature map upsampling and landmark-driven attention
+4,fashion deep learning,2016,Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering
+5,fashion deep learning,2018,Fashion-gen: The generative fashion dataset and challenge
+6,fashion deep learning,ASh,Fashion variations: Students approaches to learning in fashion design
+7,fashion deep learning,2020,Flexible fashion product retrieval using multimodality-based deep learning
+8,fashion deep learning,2019,Concept to Code: Deep Learning for Fashion Recommendation
+9,fashion deep learning,2019,The imaterialist fashion attribute dataset
+0,fashion deep learning,2020,Meta-learning for size and fit recommendation in fashion
+1,fashion deep learning,2018,Efficient multi-attribute similarity learning towards attribute-based fashion search
+2,fashion deep learning,2019,An analysis of convolutional neural network for fashion images classification (Fashion-MNIST)
+3,fashion deep learning,2018,Ontology-driven hierarchical deep learning for fashion recognition
+4,fashion deep learning,2021,"Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion"
+5,fashion deep learning,2020,A deep learning based interactive sketching system for fashion images design
+6,fashion deep learning,2017,"Learning the latent"" look"": Unsupervised discovery of a style-coherent embedding from fashion images"
+7,fashion deep learning,2018,Creating capsule wardrobes from fashion images
+8,fashion deep learning,2019,Study on fashion image retrieval methods for efficient fashion visual search
+9,fashion deep learning,2017,Visually-aware fashion recommendation and design with generative image models
+0,fashion deep learning,2019,Learning binary code for personalized fashion recommendation
+1,fashion deep learning,2017,What makes a style: Experimental analysis of fashion prediction
+2,fashion deep learning,2017,Understanding fashion trends from street photos via neighbor-constrained embedding learning
+3,fashion deep learning,2018,Image classification of fine-grained fashion image based on style using pre-trained convolutional neural network
+4,fashion deep learning,2018,Multi-modal and multi-domain embedding learning for fashion retrieval and analysis
+5,fashion deep learning,2019,Personalized fashion design
+6,fashion deep learning,2020,Knowledge enhanced neural fashion trend forecasting
+7,fashion deep learning,2020,Fashion analysis and understanding with artificial intelligence
+8,fashion deep learning,2015,Fashion parsing with video context
+9,fashion deep learning,2017,The conditional analogy gan: Swapping fashion articles on people images
